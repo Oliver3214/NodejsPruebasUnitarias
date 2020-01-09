@@ -1,0 +1,14 @@
+{
+  "name": "mocha",
+  "version": "1.0.0",
+  "description": "prueba de unitesting",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^4.2.0"
+  }
+}
